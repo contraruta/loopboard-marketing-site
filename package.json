@@ -1,0 +1,26 @@
+{
+  "name": "loopboard-marketing-site",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview --host"
+  },
+  "dependencies": {
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.4",
+    "tailwindcss": "^4.1.14",
+    "@tailwindcss/vite": "^4.1.3",
+    "vite": "^7.1.7",
+    "typescript": "5.6.3",
+    "@types/react": "^19.2.1",
+    "@types/react-dom": "^19.2.1",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47"
+  }
+}
