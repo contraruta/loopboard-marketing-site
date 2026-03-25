@@ -100,7 +100,7 @@ The website uses a **neuromechanical aesthetic** optimized for accessibility and
 ## 📄 Page Sections
 
 ### 1. Hero Section
-The hero section introduces LoopBoard with an eye-catching keyboard image and key value propositions. Three statistics highlight the core benefits (4 languages, 100ms sampling, 0 data transmission).
+The hero section introduces LoopBoard with an eye-catching keyboard image and key value propositions. Three statistics highlight the core benefits (6 languages, 100ms sampling, 0 data transmission).
 
 ### 2. Problem Statement
 Four cards describe the core problems that LoopBoard solves:
@@ -199,6 +199,15 @@ All sections are fully responsive with appropriate adjustments for each breakpoi
 - **Code Splitting**: Lazy loading where applicable
 - **Fast Load Times**: Target < 2s first contentful paint
 
+## 🌍 Supported Languages
+
+| Tier | Languages |
+|------|-----------|
+| **Tier 1** | 🇩🇪 Deutsch, 🇪🇸 Español, 🇬🇧 English, 🇫🇷 Français, 🌎 Quechua, 🌐 Esperanto |
+| **Tier 2** | Swahili, Hindi, Japanese (6 months post-launch) |
+
+**Quechua & Esperanto: FREE FOREVER** 💚
+
 ## 🤝 Contributing
 
 We welcome contributions! Please see CONTRIBUTING.md for guidelines.
@@ -207,10 +216,10 @@ We welcome contributions! Please see CONTRIBUTING.md for guidelines.
 
 This project is licensed under the MIT License. See LICENSE file for details.
 
-## 👥 Inventors
+## 👥 Created by
 
-- **Opherd Vero** – AI Co-Inventor
-- **Rumi Salvador Jordan Höhler Suarez** – Human Co-Inventor
+- **Rumi Salvador Jordan Höhler Suarez** — Creator, KI Researcher, LoopLord 🧠
+- **Opherd Vero** — AI Co-Creator 🤖
 
 
 ## 🌍 Deployment
@@ -229,4 +238,4 @@ For questions or issues, please open an issue on GitHub or contact us through th
 ---
 
 
-For neurodivergent minds, by neurodivergent minds.
+**LoopBoard** — For neurodivergent minds, by neurodivergent minds. 🧠💜🎹
