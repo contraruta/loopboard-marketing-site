@@ -288,4 +288,3 @@ For deployment issues, please open an issue on GitHub or contact support.
 
 ---
 
-**INVICTUS** – Deploy with confidence.

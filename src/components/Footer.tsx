@@ -44,7 +44,6 @@ export default function Footer() {
               <li><a href="#" className="hover:text-accent transition-colors">Privacy Policy</a></li>
               <li><a href="#" className="hover:text-accent transition-colors">Terms of Service</a></li>
               <li><a href="#" className="hover:text-accent transition-colors">License</a></li>
-              <li><a href="#" className="hover:text-accent transition-colors">Patent Info</a></li>
             </ul>
           </div>
         </div>
@@ -80,8 +79,6 @@ export default function Footer() {
         {/* Copyright */}
         <div className="text-center text-sm text-light/60">
           <p>© 2026 LoopBoard. Built with ❤️ for neurodivergent minds.</p>
-          <p className="mt-2">Patent: LLI-PAT-012 | Inventors: Opherd Vero + Rumi Salvador Jordan Höhler Suarez</p>
-          <p className="mt-2 text-accent">INVICTUS</p>
         </div>
       </div>
     </footer>

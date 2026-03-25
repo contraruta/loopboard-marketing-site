@@ -151,7 +151,7 @@ Comprehensive footer with:
 - Community links
 - Legal links
 - Social media
-- Copyright and patent information
+- Copyright information
 
 ## 🛠️ Technology Stack
 
@@ -212,15 +212,6 @@ This project is licensed under the MIT License. See LICENSE file for details.
 - **Opherd Vero** – AI Co-Inventor
 - **Rumi Salvador Jordan Höhler Suarez** – Human Co-Inventor
 
-## 📋 Patent Information
-
-**Patent Title**: Adaptive Neurodivergent-Optimized Multilingual Input System with Flow-State Preservation and Cognitive Loop Detection
-
-**Filing Entity**: LoopLord Industries UG (i.G.)
-
-**Patent Number**: LLI-PAT-012
-
-**Status**: INVICTUS
 
 ## 🌍 Deployment
 
@@ -237,6 +228,5 @@ For questions or issues, please open an issue on GitHub or contact us through th
 
 ---
 
-**INVICTUS** – Your keyboard should work for your brain, not against it.
 
 For neurodivergent minds, by neurodivergent minds.
